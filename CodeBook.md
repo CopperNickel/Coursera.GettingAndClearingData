@@ -30,22 +30,22 @@
 |26|Freq.Body.Gyro.StdErr.X|Standard error of the frequency of body gyroscopic acceleration along X axis|
 |27|Freq.Body.Gyro.StdErr.Y|Standard error of the frequency of body gyroscopic acceleration along Y axis|
 |28|Freq.Body.Gyro.StdErr.Z|Standard error of the frequency of body gyroscopic acceleration along Z axis|
-|29|Time.Body.Acc.X||
-|30|Time.Body.Acc.Y||
-|31|Time.Body.Acc.Z||
-|32|Time.Body.Acc.StdErr.X||
-|33|Time.Body.Acc.StdErr.Y||
-|34|Time.Body.Acc.StdErr.Z||
-|35|Time.Body.AccJerk.X||
-|36|Time.Body.AccJerk.Y||
-|37|Time.Body.AccJerk.Z||
-|38|Time.Body.AccJerk.StdErr.X||
-|39|Time.Body.AccJerk.StdErr.Y||
-|40|Time.Body.AccJerk.StdErr.Z||
-|41|Time.Body.AccJerkMag||
-|42|Time.Body.AccJerkMag.StdErr||
-|43|Time.Body.AccMag||
-|44|Time.Body.AccMag.StdErr||
+|29|Time.Body.Acc.X|Mean body timer-based acceleration along X axis|
+|30|Time.Body.Acc.Y|Mean body timer-based acceleration along Z axis|
+|31|Time.Body.Acc.Z|Mean body timer-based acceleration along Y axis|
+|32|Time.Body.Acc.StdErr.X|Standard error of body timer-based acceleration along X axis|
+|33|Time.Body.Acc.StdErr.Y|Standard error of body timer-based acceleration along Y axis|
+|34|Time.Body.Acc.StdErr.Z|Standard error of body timer-based acceleration along Z axis|
+|35|Time.Body.AccJerk.X|Mean body timer-based acceleration jerk along X axis|
+|36|Time.Body.AccJerk.Y|Mean body timer-based acceleration jerk along Y axis|
+|37|Time.Body.AccJerk.Z|Mean body timer-based acceleration jerk along Z axis|
+|38|Time.Body.AccJerk.StdErr.X|Standard error of body timer-based acceleration jerk along X axis|
+|39|Time.Body.AccJerk.StdErr.Y|Standard error of body timer-based acceleration jerk along Y axis|
+|40|Time.Body.AccJerk.StdErr.Z|Standard error of body timer-based acceleration jerk along Z axis|
+|41|Time.Body.AccJerkMag|Mean body timer-based acceleration jerk magnitude|
+|42|Time.Body.AccJerkMag.StdErr|Standard error of body timer-based acceleration magnitude|
+|43|Time.Body.AccMag|Mean body timer-based acceleration magnitude|
+|44|Time.Body.AccMag.StdErr|Standard error of body timer-based acceleration magnitude|
 |45|Time.Body.Gyro.X||
 |46|Time.Body.Gyro.Y||
 |47|Time.Body.Gyro.Z||
