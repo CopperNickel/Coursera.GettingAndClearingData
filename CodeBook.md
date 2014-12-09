@@ -1,5 +1,7 @@
 <h2>Human Activity Recognition Using Smartphones Data Set</h2>
 
+<h3>Data table fileds' description</h3>
+
 | NN  | Field Name  | Description |
 | ---: | ----------- | --------------- |
 | 1| Subject     | Subject of the experiment, persons encoded as 1..30|
