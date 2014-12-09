@@ -12,8 +12,7 @@ Another table
 | -- | ---------- | ----------- |
 | 1  | Subject    |             |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| NN | Field Name |
+| -- | ---------- |
+|  1 | Content l  |
+
