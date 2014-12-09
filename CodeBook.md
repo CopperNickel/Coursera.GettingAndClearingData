@@ -71,3 +71,9 @@
 |67|Time.Gravity.AccMag|Mean of time-based gravity acceleration magnitude|
 |68|Time.Gravity.AccMag.StdErr|Standard error of time-based gravity acceleration magnitude|
 
+Standard prefixes and suffixes of the fields' names:
+
+| Name | Example | Meaning |
+| ---- | ------- | ------- |
+| Body |         |         |
+
