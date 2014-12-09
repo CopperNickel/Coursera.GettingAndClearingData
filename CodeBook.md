@@ -13,6 +13,6 @@ Another table
 | 1  | Subject    |             |
 
 | NN  | Field Name  |
-| --- | ----------- |
+| ---: | ----------- |
 |  1  | Subject     |
 
