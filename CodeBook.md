@@ -75,7 +75,7 @@
 
 | Name  | Example | Meaning |
 | ----: | ------- | ------- |
-| Body  | Time.Body.Acc.Z    | |
+| Body  | Time.Body.Acc.Z    | 	experimental subject's body parameter|
 | Freq | Freq.Body.AccJerk.Y | Frequency-base value: corresponding time-base value after Fast Fourier Transform (FFT) applied |
 | Gravity | Time.Gravity.AccMag | Terrestrial gravity parameter |
 | StdErr | Time.Body.GyroMag.StdErr | Standard error of the value |
