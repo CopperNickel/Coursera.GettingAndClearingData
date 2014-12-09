@@ -10,14 +10,14 @@
 | 6|Freq.Body.Acc.StdErr.X|Standard error of the frequency of body acceleration along X axis|
 | 7|Freq.Body.Acc.StdErr.Y|Standard error of the frequency of body acceleration along Y axis|
 | 8|Freq.Body.Acc.StdErr.Z|Standard error of the frequency of body acceleration along Z axis|
-| 9|Freq.Body.AccJerk.X||
-|10|Freq.Body.AccJerk.Y||
-|11|Freq.Body.AccJerk.Z||
-|12|Freq.Body.AccJerk.StdErr.X||
-|13|Freq.Body.AccJerk.StdErr.Y||
-|14|Freq.Body.AccJerk.StdErr.Z||
-|15|Freq.Body.AccMag||
-|16|Freq.Body.AccMag.StdErr||
+| 9|Freq.Body.AccJerk.X|Mean frequency of body acceleration jerk along X axis|
+|10|Freq.Body.AccJerk.Y|Mean frequency of body acceleration jerk along Y axis|
+|11|Freq.Body.AccJerk.Z|Mean frequency of body acceleration jerk along Z axis|
+|12|Freq.Body.AccJerk.StdErr.X|Standard error of the frequency of body acceleration jerk along X axis|
+|13|Freq.Body.AccJerk.StdErr.Y|Standard error of the frequency of body acceleration jerk along Y axis|
+|14|Freq.Body.AccJerk.StdErr.Z|Standard error of the frequency of body acceleration jerk along Z axis|
+|15|Freq.Body.AccMag|Mean frequency of body acceleration magnitude|
+|16|Freq.Body.AccMag.StdErr|Standard error of the frequency of body acceleration magnitude|
 |17|Freq.Body.BodyAccJerkMag||
 |18|Freq.Body.BodyAccJerkMag.StdErr||
 |19|Freq.Body.BodyGyroJerkMag||
