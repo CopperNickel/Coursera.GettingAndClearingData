@@ -75,9 +75,9 @@
 
 | Name  | Example | Meaning |
 | ----: | ------- | ------- |
-| Body  | Time.Body.Acc.Z    |         |
-| Freq | Freq.Body.AccJerk.Y | |
-| Gravity | Time.Gravity.AccMag | |
+| Body  | Time.Body.Acc.Z    | |
+| Freq | Freq.Body.AccJerk.Y | Frequency-base value: corresponding time-base value after Fast Fourier Transform (FFT) applied |
+| Gravity | Time.Gravity.AccMag | Terrestrial gravity parameter |
 | StdErr | Time.Body.GyroMag.StdErr | Standard error of the value |
 | Time | Time.Body.AccJerk.Z | Timer-base value: captured at a constant rate of 50 Hz. Then it's filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. |
 | X | Time.Body.GyroJerk.X | Value (vector) along X axis |
