@@ -12,7 +12,7 @@ Another table
 | -- | ---------- | ----------- |
 | 1  | Subject    |             |
 
-| NN  | 
-| --- | 
-|  1  | 
+| NN  | Field Name  |
+| --- | ----------- |
+|  1  | Subject     |
 
