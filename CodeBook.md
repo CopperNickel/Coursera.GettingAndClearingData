@@ -2,8 +2,8 @@
 
 | NN  | Field Name  | Description |
 | ---: | ----------- | --------------- |
-| 1| Subject     | |
-| 2|Activity||
+| 1| Subject     | Subject of experiment, 1..14|
+| 2|Activity| Activity performed:|
 | 3|Freq.Body.Acc.X||
 | 4|Freq.Body.Acc.Y|
 | 5|Freq.Body.Acc.Z|
