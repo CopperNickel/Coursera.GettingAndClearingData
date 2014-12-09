@@ -46,22 +46,22 @@
 |42|Time.Body.AccJerkMag.StdErr|Standard error of body timer-based acceleration magnitude|
 |43|Time.Body.AccMag|Mean body timer-based acceleration magnitude|
 |44|Time.Body.AccMag.StdErr|Standard error of body timer-based acceleration magnitude|
-|45|Time.Body.Gyro.X||
-|46|Time.Body.Gyro.Y||
-|47|Time.Body.Gyro.Z||
-|48|Time.Body.Gyro.StdErr.X||
-|49|Time.Body.Gyro.StdErr.Y||
-|50|Time.Body.Gyro.StdErr.Z||
-|51|Time.Body.GyroJerk.X||
-|52|Time.Body.GyroJerk.Y||
-|53|Time.Body.GyroJerk.Z||
-|54|Time.Body.GyroJerk.StdErr.X||
-|55|Time.Body.GyroJerk.StdErr.Y||
-|56|Time.Body.GyroJerk.StdErr.Z||
-|57|Time.Body.GyroJerkMag||
-|58|Time.Body.GyroJerkMag.StdErr||
-|59|Time.Body.GyroMag||
-|60|Time.Body.GyroMag.StdErr||
+|45|Time.Body.Gyro.X|Mean time-based body gyroscopic acceleration along X axis|
+|46|Time.Body.Gyro.Y|Mean time-based body gyroscopic acceleration along Y axis|
+|47|Time.Body.Gyro.Z|Mean time-based body gyroscopic acceleration along Z axis|
+|48|Time.Body.Gyro.StdErr.X|Standard error of time-based body gyroscopic acceleration along X axis|
+|49|Time.Body.Gyro.StdErr.Y|Standard error of time-based body gyroscopic acceleration along Y axis|
+|50|Time.Body.Gyro.StdErr.Z|Standard error of time-based body gyroscopic acceleration along Z axis|
+|51|Time.Body.GyroJerk.X|Mean time-based body gyroscopic jerk along X axis|
+|52|Time.Body.GyroJerk.Y|Mean time-based body gyroscopic jerk along Y axis|
+|53|Time.Body.GyroJerk.Z|Mean time-based body gyroscopic jerk along Z axis|
+|54|Time.Body.GyroJerk.StdErr.X|Standard error of time-based body gyroscopic jerk along X axis|
+|55|Time.Body.GyroJerk.StdErr.Y|Standard error of time-based body gyroscopic jerk along Y axis|
+|56|Time.Body.GyroJerk.StdErr.Z|Standard error of time-based body gyroscopic jerk along Z axis|
+|57|Time.Body.GyroJerkMag|Mean time-based body gyroscopic jerk magnitude|
+|58|Time.Body.GyroJerkMag.StdErr|Standard error of time-based body gyroscopic jerk magnitude|
+|59|Time.Body.GyroMag|Mean time-based body gyroscopic acceleration magnitude|
+|60|Time.Body.GyroMag.StdErr|Standard error of time-based body gyroscopic acceleration magnitude|
 |61|Time.Gravity.Acc.X||
 |62|Time.Gravity.Acc.Y||
 |63|Time.Gravity.Acc.Z||
