@@ -62,12 +62,12 @@
 |58|Time.Body.GyroJerkMag.StdErr|Standard error of time-based body gyroscopic jerk magnitude|
 |59|Time.Body.GyroMag|Mean time-based body gyroscopic acceleration magnitude|
 |60|Time.Body.GyroMag.StdErr|Standard error of time-based body gyroscopic acceleration magnitude|
-|61|Time.Gravity.Acc.X||
-|62|Time.Gravity.Acc.Y||
-|63|Time.Gravity.Acc.Z||
-|64|Time.Gravity.Acc.StdErr.X||
-|65|Time.Gravity.Acc.StdErr.Y||
-|66|Time.Gravity.Acc.StdErr.Z||
-|67|Time.Gravity.AccMag||
-|68|Time.Gravity.AccMag.StdErr||
+|61|Time.Gravity.Acc.X|Mean time-based gravity acceleration along X axis|
+|62|Time.Gravity.Acc.Y|Mean time-based gravity acceleration along Y axis|
+|63|Time.Gravity.Acc.Z|Mean time-based gravity acceleration along Z axis|
+|64|Time.Gravity.Acc.StdErr.X|Standard error of time-based gravity acceleration along X axis|
+|65|Time.Gravity.Acc.StdErr.Y|Standard error of time-based gravity acceleration along Y axis|
+|66|Time.Gravity.Acc.StdErr.Z|Standard error of time-based gravity acceleration along Z axis|
+|67|Time.Gravity.AccMag|Mean of time-based gravity acceleration magnitude|
+|68|Time.Gravity.AccMag.StdErr|Standard error of time-based gravity acceleration magnitude|
 
