@@ -4,7 +4,7 @@
 | ---: | ----------- | --------------- |
 | 1| Subject     | Subject of the experiment, persons encoded as 1..30|
 | 2|Activity| Activity performed: 1..6|
-| 3|Freq.Body.Acc.X||
+| 3|Freq.Body.Acc.X|Mean frequency of body acceleration along X axis|
 | 4|Freq.Body.Acc.Y||
 | 5|Freq.Body.Acc.Z||
 | 6|Freq.Body.Acc.StdErr.X||
