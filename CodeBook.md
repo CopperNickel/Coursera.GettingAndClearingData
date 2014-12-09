@@ -85,3 +85,14 @@
 | X | Time.Body.GyroJerk.X | Value (vector) along X axis |
 | Y | Time.Body.Gyro.StdErr.Y | Value (vector) along Y axis |
 | Z | Time.Gravity.Acc.Z| Value (vector) along Z axis |
+
+<h3>Activities</h3>
+
+| Code  | Activity |
+| ----: | -------- | 
+| 1||
+| 2||
+| 3||
+| 4||
+| 5||
+| 6||
