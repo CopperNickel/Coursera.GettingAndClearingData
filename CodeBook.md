@@ -2,7 +2,7 @@
 
 | NN  | Field Name  | Description |
 | ---: | ----------- | --------------- |
-|  1  | Subject     | |
+| 1| Subject     | |
 | 2|Activity||
 | 3|Freq.Body.Acc.X||
 | 4|Freq.Body.Acc.Y|
