@@ -11,3 +11,9 @@ Another table
 | NN | Field Name | Description |
 | -- | ---------- | ----------- |
 | 1  | Subject    |             |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
