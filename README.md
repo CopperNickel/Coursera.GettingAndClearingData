@@ -1,17 +1,18 @@
-To clear up initially messy Samsung database
+To clear up the initially messy Samsung database
 
   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-A full description is available at 
+which full description is available at 
 
   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-To perform data clearing up one should:
+One should
 
   1. Download and unzip Samsung database into R working directory
      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-  2. Download into R working directory run_analysis.R script from this repo
+  2. Download into R working directory a script from this repo:
+     run_analysis.R   
 
   3. Perform clearance procedure
 ```
