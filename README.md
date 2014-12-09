@@ -22,8 +22,11 @@ One should
 
 To get _cleared_and_aggregated_ database (see step 5 of the Coursera instruction at 
 https://class.coursera.org/getdata-016/human_grading/view/courses/973758/assessments/3/submissions)
+one can perform aggregation as well:
 
 ```
   source("run_analysis.R"); # if not loaded
   agg <- uci.har.aggregate();
 ```
+
+Data codebook is available as <b>CodeBook.md</b> at this repo
