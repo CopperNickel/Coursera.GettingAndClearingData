@@ -5,7 +5,11 @@
 | NN  | Field Name  | Description |
 | ---: | ----------- | --------------- |
 | 1| Subject     | Subject of the experiment, persons encoded as 1..30|
-| 2|Activity| Activity performed: 1..6|
+| 2|Activity| Activity performed: (WALKING, WALKING_UPSTAIRS
+, WALKING_DOWNSTAIRS
+, SITTING
+, STANDING
+, LAYING)|
 | 3|Freq.Body.Acc.X|Mean frequency of body acceleration along X axis|
 | 4|Freq.Body.Acc.Y|Mean frequency of body acceleration along Y axis|
 | 5|Freq.Body.Acc.Z|Mean frequency of body acceleration along Z axis|
