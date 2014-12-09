@@ -75,11 +75,11 @@
 
 | Name  | Example | Meaning |
 | ----: | ------- | ------- |
-| Body  |         |         |
-| Freq | | |
-| Gravity | | |
-| StdErr | | |
-| Time | | |
-| X | | |
-| Y | | |
-| Z | | |
+| Body  | Time.Body.Acc.Z    |         |
+| Freq | Freq.Body.AccJerk.Y | |
+| Gravity | Time.Gravity.AccMag | |
+| StdErr | Time.Body.GyroMag.StdErr | Standard error of the value |
+| Time | Time.Body.AccJerk.Z | Timer-base value: captured at a constant rate of 50 Hz. Then it's filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz |
+| X | Time.Body.GyroJerk.X | Value (vector) along X axis |
+| Y | Time.Body.Gyro.StdErr.Y | Value (vector) along Y axis |
+| Z | Time.Gravity.Acc.Z| Value (vector) along Z axis |
