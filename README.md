@@ -12,7 +12,7 @@ One should
      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
   2. Download into R working directory a script from this repo:
-     run_analysis.R   
+     <b>run_analysis.R</b>   
 
   3. Perform clearance procedure
 ```
