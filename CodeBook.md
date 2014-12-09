@@ -4,6 +4,7 @@ Human Activity Recognition Using Smartphones Data Set
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 | ## | Field Name | Description |
 | -- | ---------- | ----------- |
